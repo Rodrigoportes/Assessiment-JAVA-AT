@@ -1,5 +1,5 @@
 ## Medieval Battle <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-Este projeto é o Medieval Battle, um jogo de batalha por turnos desenvolvido em Java como parte do Projeto de Conclusão da disciplina "Fundamentos de Desenvolvimento JAVA". O jogo simula batalhas entre heróis escolhidos pelos jogadores e monstros selecionados aleatoriamente.
+Medieval Battle, é um jogo de batalha por turnos desenvolvido em Java como parte do Projeto de Conclusão da disciplina "Fundamentos de Desenvolvimento em JAVA". O jogo simula batalhas entre heróis escolhidos pelos jogadores e monstros selecionados aleatoriamente.
 
 ## Descrição do Projeto
 O projeto consiste em dois programas:
@@ -32,5 +32,5 @@ Geração de Relatórios:
 
 ## Estrutura do Projeto
  - Classe de Personagem: Classe abstrata ou interface para representar heróis e monstros, com métodos polimórficos para cálculo de dano, ataque e defesa.
-Classe de Batalha: Responsável por simular a batalha, calcular iniciativas, ataques e definir o vencedor.
-Classe de Relatório: Processa os dados dos arquivos CSV e gera estatísticas.
+ - Classe de Batalha: Responsável por simular a batalha, calcular iniciativas, ataques e definir o vencedor.
+ - Classe de Relatório: Processa os dados dos arquivos CSV e gera estatísticas.
